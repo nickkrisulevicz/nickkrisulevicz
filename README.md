@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nicholas Krisulevicz! You can call me Nick. @nickkrisulevicz
-- 👀 I’m interested in motorsports, cars and trucks, football, video games, fixing things, adding tools to my collection, bushcraft, fishing, and outdoors things.
+- 👀 I’m interested in motorsports, cars and trucks, football, video games, fixing things, tools and repair, bushcraft, fishing, and outdoors things.
 - 🌱 I’m currently learning Computer Science at Salisbury University.
 - 💞️ I’m looking to collaborate on pass by reference in C++.
 - 📫 How to reach me: send an email @nkrisulevicz1@gulls.salisbury.edu if you have any questions!
