@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Nicholas Krisulevicz! You can call me Nick. @nickkrisulevicz
-- 👀 I’m interested in motorsports, cars and trucks, football, video games, fixing things, tools and repair, bushcraft, fishing, and outdoors things.
-- 🌱 I’m currently learning Computer Science at Salisbury University.
-- 💞️ I’m looking to collaborate on pass by reference in C++.
-- 📫 How to reach me: send an email @nkrisulevicz1@gulls.salisbury.edu if you have any questions!
+- If you need to reach me, send me an email at: nkrisulevicz@gmail.com
+- Graduated May 2023 with B.S. Computer Science from Salisbury University
+- Interned at Volvo Group Trucks Operations in Summer 2022
+- Seeking Software Engineering Career Position
+- Team Leader for Robot Weed Killer Software Engineering Project from August 2022 - May 2023
+- Languages Used: C, C++, Java, Python, Batch, Bash, Arduino, Dart, Lua
 
 <!---
 nickkrisulevicz/nickkrisulevicz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
